@@ -1,0 +1,16 @@
+{
+  "name": "xotabu4",
+  "version": "1.0.0",
+  "description": "Demo projec for xotabu4",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pojiuk555/xotabu4.git"
+  },
+  "author": "Maksym Chernenko <pojiukk555@gmail.com>",
+  "license": "MIT"
+  
+}
