@@ -1,3 +1,5 @@
+require("ts-node").register({files: true});
+
 exports.config = {
     //
     // ====================
@@ -24,7 +26,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/*.js'
+        './test/specs/**/*.ts'
     ],
     // Patterns to exclude.
     exclude: [
