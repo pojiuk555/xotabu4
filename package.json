@@ -11,6 +11,15 @@
     "url": "git+https://github.com/pojiuk555/xotabu4.git"
   },
   "author": "Maksym Chernenko <pojiukk555@gmail.com>",
-  "license": "MIT"
-  
+  "license": "MIT",
+  "dependencies": {
+    "@wdio/cli": "^7.8.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.8.0",
+    "@wdio/mocha-framework": "^7.8.0",
+    "@wdio/spec-reporter": "^7.8.0",
+    "chromedriver": "^92.0.0",
+    "wdio-chromedriver-service": "^7.2.0"
+  }
 }
